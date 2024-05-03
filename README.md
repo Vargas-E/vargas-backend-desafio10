@@ -1,7 +1,6 @@
-# Desafio 9 
+# Desafio 10
 
-NOTA: La ruta de cart muestra el cart creado al crear el usuario. Empieza sin productos. 
-
+Nota: Se agregaron custom errors a los endpoint de api/products
 Al entrar con la cuenta admin, se utiliza una appbar diferente con atajo a realtimeproducts, que permite edicion de productos
 
 
